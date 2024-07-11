@@ -7,7 +7,9 @@
 <br/>
 
 1. Managing the Development of Large Software Systems, Royce (1970)
-2. The Mythical Man Month, Brooks (1975)
+2. The Mythical Man Month [Brooks (1975)](https://www.cs.virginia.edu/~evans/greatworks/mythical.pdf)
 3. No Silver Bullet: Essence and Accidents of Software Engineering, Brooks (1987)
+
+
 
 
